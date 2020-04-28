@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8Ws68a6JNv7D7Io53+3EFK0sVcGFuqhEYcVP9kk+GpfZymsEfrJRpGKWxJn8p4m9jGzo/bcVIb7EdE8ZpWSZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roeea\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roeea\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\roeea\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
